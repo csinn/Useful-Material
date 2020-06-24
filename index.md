@@ -3,6 +3,5 @@
 ## Partners
 # Resources
 ## Courses
-[Link](url) and 
-## Books
+## [Books](/resources/books/books_1.md)
 ## Discord
