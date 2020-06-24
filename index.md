@@ -1,6 +1,6 @@
 # Community
-## [Projects](/community/projects.md)
-## [Partners](/community/partners.md)
+## [Projects](/community/projects/projects_1.md)
+## [Partners](/community/partners/partners_1.md)
 # Resources
-## [Courses](/community/cources.md)
+## [Courses](/resources/cources/cources_1.md)
 ## [Books](/resources/books/books_1.md)
