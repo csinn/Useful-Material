@@ -3,7 +3,7 @@
 <table>
 	<thead>
 		<tr>
-			<th>Covers(F(,B))</th>
+			<th>Cover</th>
 			<th>Title, Year, ISBN</th>
 			<th>Description</th>
 			<th>Authors</th>
@@ -52,7 +52,7 @@
 <table>
 	<thead>
 		<tr>
-			<th>Covers(F(,B))</th>
+			<th>Cover</th>
 			<th>Title, Year, ISBN</th>
 			<th>Description</th>
 			<th>Authors</th>
