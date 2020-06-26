@@ -5,9 +5,7 @@ https://free-for.dev/#/?id=cicd
  https://github.com/mhxion/awesome-discord-servers/
 
 # Services
-## HaveIBeenPawned
-Check if you have an account that has been compromised in a data breach.  
-https://haveibeenpwned.com/
+Hello world
 
 # Tools
 ## Regex 101
