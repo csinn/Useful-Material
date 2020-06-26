@@ -11,6 +11,7 @@ https://haveibeenpwned.com/
 
 ## JustDelete
 A directory of direct links to delete your account from web services.  
+https://backgroundchecks.org/justdeleteme/
 
 # Tools
 ## Regex 101
