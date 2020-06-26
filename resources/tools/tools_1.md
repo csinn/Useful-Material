@@ -13,6 +13,9 @@ https://haveibeenpwned.com/
 A directory of direct links to delete your account from web services.  
 https://backgroundchecks.org/justdeleteme/
 
+## Free Oracle certifications
+https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html
+
 # Tools
 ## Regex 101
 A website that gives a 100% defined explanation of the expression you provided. 
