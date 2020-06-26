@@ -1,4 +1,6 @@
-# Beginner
+# The Way #1
+
+## Beginner
 
 <table>
 	<thead>
@@ -47,7 +49,7 @@
 	</tbody>
 </table>
 
-# Intermediate
+## Intermediate
 
 <table>
 	<thead>
