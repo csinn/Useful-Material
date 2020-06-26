@@ -5,7 +5,7 @@
  [https://github.com/mhxion/awesome-discord-servers/](https://github.com/mhxion/awesome-discord-servers/)
 
 # Services
-## HaveIBeenPawned
+## HaveIBeenPwned
 Check if you have an account that has been compromised in a data breach.  
 [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
