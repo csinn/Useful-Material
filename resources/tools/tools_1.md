@@ -5,7 +5,12 @@ https://free-for.dev/#/?id=cicd
  https://github.com/mhxion/awesome-discord-servers/
 
 # Services
-Hello world
+## HaveIBeenPawned
+Check if you have an account that has been compromised in a data breach.  
+https://haveibeenpwned.com/
+
+## JustDelete
+A directory of direct links to delete your account from web services.  
 
 # Tools
 ## Regex 101
