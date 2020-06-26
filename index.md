@@ -2,9 +2,7 @@
 ## [Projects](/community/projects/projects_1.md)
 ## [Partners](/community/partners/partners_1.md)
 # Resources
-## [Courses & Series](/resources/cources/cources_1.md)
-## [Books on Amazon](/resources/books/books_1.md)
-
+## [Courses & Series](/resources/courses/cources_1.md)
 ## Books
 ### The Start
 #### [The Way #1](/resources/books/starts/way_1.md)
