@@ -4,6 +4,20 @@ https://free-for.dev/#/?id=cicd
 ## All discord communities for programming
  https://github.com/mhxion/awesome-discord-servers/
 
+# Services
+## HaveIBeenPawned
+Check if you have an account that has been compromised in a data breach.  
+https://haveibeenpwned.com/
+
+## JustDelete
+A directory of direct links to delete your account from web services.  
+https://backgroundchecks.org/justdeleteme/
+
+## Interviewing.io
+Practice interviewing with engineers from Google, Facebook, and more... anonymously
+Get better at algorithmic and systems design problems, find a job, or just see if you’ve still got it.  
+https://interviewing.io/
+
 # Tools
 ## Regex 101
 A website that gives a 100% defined explanation of the expression you provided. 
