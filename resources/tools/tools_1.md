@@ -21,8 +21,7 @@ Free webhosting: (Life Time)
 https://dashboard.viewen.com/aff.php?aff=4167
 
 ## Interviewing.io
-Practice interviewing with engineers from Google, Facebook, and more... anonymously
-Get better at algorithmic and systems design problems, find a job, or just see if you’ve still got it.  
+https://interviewing.io/
 
 # Tools
 ## Regex 101
