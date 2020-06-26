@@ -8,7 +8,7 @@
 ## Books
 ### The Start
 #### [The Way #1](/resources/books/starts/way_1.md)
-### Practices, Theoremes, "Digging Deeper"
+### The Practices, Theoremes, "Digging Deeper"
 #### [The Set #1](/resources/books/sets/set_1.md)
 ### The Finds
 #### [Free eBooks #1](/resources/books/finds/find_1.md)
