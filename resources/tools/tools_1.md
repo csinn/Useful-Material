@@ -5,13 +5,12 @@ https://free-for.dev/#/?id=cicd
  https://github.com/mhxion/awesome-discord-servers/
 
 # Services
-## HaveIBeenPawned
-Check if you have an account that has been compromised in a data breach.  
-https://haveibeenpwned.com/
+## Free Oracle certifications
+https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html
 
-## JustDelete
-A directory of direct links to delete your account from web services.  
-https://backgroundchecks.org/justdeleteme/
+## Viewen
+Free webhosting: (Life Time)  
+https://dashboard.viewen.com/aff.php?aff=4167
 
 ## Interviewing.io
 Practice interviewing with engineers from Google, Facebook, and more... anonymously
