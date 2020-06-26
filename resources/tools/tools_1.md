@@ -21,12 +21,8 @@ Free webhosting: (Life Time)
 https://dashboard.viewen.com/aff.php?aff=4167
 
 ## Interviewing.io
-A website that gives a 100% defined explanation of the expression you provided. 
-Explains what it does and how does it work.  
-A website that gives a 100% defined explanation of the expression you provided. 
-Explains what it does and how does it work.  
-A website that gives a 100% defined explanation of the expression you provided. 
-Explains what it does and how does it work.  
+Get ready for a job interview by a volunteer professional from one of the FANG companies!
+Get better at system design and problem solving, maybe even find a job  
 https://interviewing.io/
 
 # Tools
