@@ -1,9 +1,11 @@
-# Beginner
+# The Way #1
+
+## Beginner
 
 <table>
 	<thead>
 		<tr>
-			<th>Covers(F(,B))</th>
+			<th>Cover</th>
 			<th>Title, Year, ISBN</th>
 			<th>Description</th>
 			<th>Authors</th>
@@ -47,12 +49,12 @@
 	</tbody>
 </table>
 
-# Intermediate
+## Intermediate
 
 <table>
 	<thead>
 		<tr>
-			<th>Covers(F(,B))</th>
+			<th>Cover</th>
 			<th>Title, Year, ISBN</th>
 			<th>Description</th>
 			<th>Authors</th>
