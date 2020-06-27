@@ -218,24 +218,3 @@ The most recently added projects are at the top of each list.
   ```
   Please keep your project title to under 100 characters. Aim to keep the content short and provide links to longer explainations.
 </details>
-
-<style>
-  details {
-    background-color: rgba(255,255,255,0.05);
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 20px;
-  }
-  details > summary {
-    margin: -20px;
-    padding: 20px;
-  }
-  details > summary > h2 {
-    display: inline-block;
-    margin-bottom: 0;
-  }
-  details > summary > h3 {
-    display: inline-block;
-    margin-bottom: 0;
-  }
-</style>
