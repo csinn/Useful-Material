@@ -32,7 +32,7 @@ A great course that on Youtube that will make you understand every design patter
 A full list of patterns explained in human language.  
 [https://refactoring.guru/design-patterns/catalog](https://refactoring.guru/design-patterns/catalog)
 
-# Harward introduction to computer science
+# Harvard introduction to computer science
 For some that might not have heard of it. Harvard introduction to Computer Science can be accessed for free.
 Lectures in it are just pure joy to watch, David J. Malan has an incredible gift of teaching basics.
 If your just starting to learn, definitely worth giving it a try, even just the lectures.
