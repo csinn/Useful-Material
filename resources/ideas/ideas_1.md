@@ -1,6 +1,6 @@
 # uplabs.com
 Good inspiration for UI/UX  
-[www.uplabs.com](www.uplabs.com)
+[www.uplabs.com](https://www.uplabs.com/)
 
 # Mega Project List
 Something I'm finding helpful for inspiration for projects.
