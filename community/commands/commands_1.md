@@ -1,4 +1,5 @@
 # Commands
+The commands below can be used by every user. In order to invoke a command, all you need is to prefix it with "-". For example "- ask".
 ## -ask
 **Response:**  
 Please ask your question in one of the following channels.
