@@ -2,7 +2,7 @@
 
 ## Before you read the below
 A huge collection of free e-books for almost every programming language.  
-[https://ebookfoundation.github.io/free-programming-books/free-programming-books.html](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html)
+[https://ebookfoundation.github.io/free-programming-books](https://ebookfoundation.github.io/free-programming-books)
 
 ## Programming Notes for Professionals
 A book composed from StackOverflow answers.  
