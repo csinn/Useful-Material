@@ -29,7 +29,7 @@ teach programming to each other.
 A general programming discord.  
 [https://discord.gg/010z0Kw1A9ql5c1Qe](https://discord.gg/010z0Kw1A9ql5c1Qe)
 
-## OneLeif
+## Oneleif
 Oneleif place to go to get help/feedback on a project, 
 find a mentor, or learn about anything related to programming (including design, modeling, music, etc)  
 [https://discord.gg/FNMeDEn](https://discord.gg/FNMeDEn)
