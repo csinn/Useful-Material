@@ -2,6 +2,9 @@
 The commands below can be used by every user. In order to invoke a command, all you need is to prefix it with "-". For example "- ask".
 ## -ask
 **Response:**  
+Don't ask to ask, just ask 🙂 This community has been made mostly for helping people, so don't worry too much, be patient and ask the question that you want. 
+
+
 Please ask your question in one of the following channels.
 Try to use a channel which is not currently occupied.
 Please ask your question in one of the following channels:
@@ -29,7 +32,7 @@ If you intend on sending large amounts of code, please use a service like https:
 There is an ongoing boot camp called "C#: From Zero to Hero" led by @Kaisinel#4921
 It's free and it is aimed for people with 0 experience. It aims to give you the level of knowledge that would be enough to land a job.
 It also doesn't just teach how to get stuff done but also tries to explain alternatives and look for the best way of doing it.
-https://github.com/csinn/CSharp-From-Zero-To-Hero
+<https://github.com/csinn/CSharp-From-Zero-To-Hero-v2>
 
 ## -msdn
 **Response:**  
