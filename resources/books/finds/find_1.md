@@ -13,5 +13,5 @@ An ebook and a website, written by Daniel Shiffman himself (The Coding Train).
 [https://natureofcode.com/book/](https://natureofcode.com/book/)
 
 ## EDULINQ
-An website and an ebook which teaches all about LINQ, from 0. By Jon Skeet.  
+A website and an ebook which teaches all about LINQ, from 0. By Jon Skeet.  
 [https://codeblog.jonskeet.uk/category/edulinq/](https://codeblog.jonskeet.uk/category/edulinq/)
